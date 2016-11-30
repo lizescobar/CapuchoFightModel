@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TypeManagement projectID="DCE.42E3989F-4EC6-34C4-2F6D-2A023741811C">
+	<Locations nextID="1">
+	<Location locID="T.0" href="./Juego-Model.etup"/></Locations>
+
+   <Types>
+   <Type id="DCE.3FC1A413-8CA3-6673-65C2-4A302C70074B" location="T.0" name="Unnamed"/></Types>
+
+	<IrresolvableTypes>
+	</IrresolvableTypes>
+
+</TypeManagement>
